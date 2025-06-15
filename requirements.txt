@@ -1,0 +1,11 @@
+streamlit
+requests
+moviepy
+transformers
+torchaudio
+torch
+ffmpeg-python
+openai-whisper
+sentencepiece
+diffusers
+coqui-tts
